@@ -3,7 +3,7 @@
 
 /* all page */
 
-.e204_102 { 
+.body { 
 	overflow:hidden;
 }
 .e204_102 { 
@@ -65,7 +65,7 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e204_130 { 
+.footer text { 
 	color:rgba(0, 52.337939366698265, 74.3749974668026, 1);
 	width:142px;
 	height:31px;
@@ -259,20 +259,17 @@
 .e204_147 { 
 	border:1px solid rgba(200.81250607967377, 200.81250607967377, 200.81250607967377, 1);
 
-	/* Header */
+	
 }
 .e204_147 { 
 	position:absolute;
 	left:299px;
 	top:65px;
+	
+	/* Header */
 }
-.e204_148 { 
-	width:1463px;
-	height:347px;
-	position:absolute;
-	left:176px;
-	top:226px;
-}
+
+
 .e204_149 { 
 	background-color:rgba(165.00000536441803, 148.000006377697, 228.0000016093254, 1);
 	width:29px;
