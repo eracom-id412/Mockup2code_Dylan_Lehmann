@@ -1,0 +1,238 @@
+/* screen - mockup2code-lehmann-dylan */
+
+.mockup2code-lehmann-dylan {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 3173px;
+  width: 1728px;
+}
+
+.mockup2code-lehmann-dylan .flex-row {
+  margin-left: 3.0px;
+  margin-top: 64px;
+  min-width: 1541px;
+}
+
+.mockup2code-lehmann-dylan .flex-col {
+  flex-direction: column;
+  min-height: 3027px;
+  width: 1728px;
+}
+
+.mockup2code-lehmann-dylan .vector-2 {
+  height: 2px;
+  width: 1546px;
+}
+
+.mockup2code-lehmann-dylan .overlap-group5 {
+  background-image: url(../img/mask-group-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 905px;
+  margin-top: 31px;
+  position: relative;
+  width: 1678px;
+}
+
+.mockup2code-lehmann-dylan .group-10 {
+  background-color: #46c5fa;
+  border-radius: 22px;
+  height: 88px;
+  left: 101px;
+  min-width: 192px;
+  padding: 26px 30px;
+  position: absolute;
+  top: 636px;
+}
+
+.mockup2code-lehmann-dylan .group-11 {
+  background-color: var(--dark-blue);
+  border-radius: 22px;
+  height: 88px;
+  left: 322px;
+  min-width: 207px;
+  padding: 26px 27px;
+  position: absolute;
+  top: 636px;
+}
+
+.mockup2code-lehmann-dylan .overlap-group7 {
+  height: 843px;
+  left: 100px;
+  position: absolute;
+  top: 47px;
+  width: 1557px;
+}
+
+.mockup2code-lehmann-dylan .how-it-works {
+  color: var(--black);
+  font-family: var(--font-family-nunito);
+  font-size: 55px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 162px;
+  min-height: 75px;
+  min-width: 357px;
+  text-align: center;
+}
+
+.mockup2code-lehmann-dylan .overlap-group8 {
+  height: 1013px;
+  margin-top: 114px;
+  position: relative;
+  width: 1328px;
+}
+
+.mockup2code-lehmann-dylan .overlap-group3 {
+  height: 1013px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1328px;
+}
+
+.mockup2code-lehmann-dylan .number {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 716px;
+}
+
+.mockup2code-lehmann-dylan .group-7 {
+  background-image: url(../img/image-12.png);
+  background-size: 100% 100%;
+  gap: 47px;
+  height: 127px;
+  justify-content: flex-end;
+  left: 724px;
+  min-width: 586px;
+  padding: 12px 130px;
+  position: absolute;
+  top: 415px;
+}
+
+.mockup2code-lehmann-dylan .group-9 {
+  background-image: url(../img/image-13.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 360px;
+  justify-content: flex-end;
+  left: 20px;
+  min-width: 621px;
+  padding: 37px 168px;
+  position: absolute;
+  top: 600px;
+}
+
+.mockup2code-lehmann-dylan .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/image-8@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 360px;
+  left: 178px;
+  min-width: 413px;
+  padding: 142px 167px;
+  position: absolute;
+  top: 0;
+}
+
+.mockup2code-lehmann-dylan .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--picton-blue);
+  border-radius: 27px;
+  display: flex;
+  height: 38px;
+  left: 693px;
+  min-width: 38px;
+  padding: 1px 11px;
+  position: absolute;
+  top: 29px;
+}
+
+.mockup2code-lehmann-dylan .overlap-group4 {
+  align-items: center;
+  background-color: var(--lily-white);
+  display: flex;
+  flex-direction: column;
+  margin-top: 44px;
+  min-height: 681px;
+  padding: 37px 82.5px;
+  width: 1728px;
+}
+
+.mockup2code-lehmann-dylan .low-code-api-development-1 {
+  -webkit-text-stroke: 1px var(--primary);
+  color: var(--prussian-blue);
+  font-family: var(--font-family-nunito);
+  font-size: 50px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 162.0px;
+  margin-top: 68px;
+  min-height: 69px;
+  width: 678px;
+}
+
+.mockup2code-lehmann-dylan .next-generation-low-1 {
+  color: var(--prussian-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 60px;
+  width: 892px;
+}
+
+.mockup2code-lehmann-dylan .book-a-demo-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 34px;
+  min-width: 184px;
+}
+
+.mockup2code-lehmann-dylan .group-17 {
+  border: 1px solid;
+  border-color: var(--prussian-blue);
+  border-radius: 38px;
+  height: 69px;
+  margin-left: 363px;
+  min-width: 69px;
+  padding: 16px;
+}
+
+.mockup2code-lehmann-dylan .group-18 {
+  border: 1px solid;
+  border-color: var(--prussian-blue);
+  border-radius: 38px;
+  height: 69px;
+  margin-left: 20px;
+  min-width: 69px;
+  padding: 17px 16px;
+}
+
+.mockup2code-lehmann-dylan .build-from-group-up-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.mockup2code-lehmann-dylan .flex {
+  align-items: center;
+  display: flex;
+}
+
+.mockup2code-lehmann-dylan .group {
+  align-items: flex-start;
+  display: flex;
+}

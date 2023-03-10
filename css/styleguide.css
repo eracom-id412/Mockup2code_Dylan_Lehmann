@@ -1,0 +1,140 @@
+:root { 
+  --banana: #ffd32b;
+  --black: #000000;
+  --chicago: #5a5a5a;
+  --cosmic-cobalt: #2c358d;
+  --dark-blue: #0718c4;
+  --lavender: #b384ff;
+  --light-pink: #e9c6da;
+  --light-purple: #ccd0ff;
+  --lily-white: #e4f7ff;
+  --mine-shaft: #303030;
+  --perano: #a3abfb;
+  --picton-blue: #46c5fb;
+  --primary: #00085d;
+  --prussian-blue: #00344a;
+  --shamrock: #2dff9a;
+  --shark: #282828;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 22px;
+  --font-size-s: 20px;
+  --font-size-xl: 25px;
+  --font-size-xs: 18px;
+  --font-size-xxl: 26px;
+  --font-size-xxxl: 70px;
+ 
+  --font-family-gilroy-bold: "Gilroy-Bold", Helvetica;
+  --font-family-gilroy-semibold: "Gilroy-SemiBold", Helvetica;
+  --font-family-nunito: "Nunito", Helvetica;
+  --font-family-nunito-medium: "Nunito-Medium", Helvetica;
+  --font-family-nunito-regular: "Nunito-Regular", Helvetica;
+  --font-family-nunito-semibolditalic: "Nunito-SemiBoldItalic", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-poppins-regular: "Poppins-Regular", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.nunito-semi-bold-thistle-22px {
+  color: var(--light-pink);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gilroy-bold-fuzzy-wuzzy-25px {
+  color: var(--primary);
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-semi-bold-mine-shaft-22px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.nunito-extra-bold-white-26px {
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.gilroy-bold-black-26px {
+  color: var(--black);
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-medium-prussian-blue-24px {
+  color: var(--prussian-blue);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gilroy-semi-bold-periwinkle-24px {
+  color: var(--light-purple);
+  font-family: var(--font-family-gilroy-semibold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.nunito-extra-bold-prussian-blue-25px {
+  color: var(--prussian-blue);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.poppins-regular-normal-chicago-20px {
+  color: var(--chicago);
+  font-family: var(--font-family-poppins-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gilroy-semi-bold-black-23px {
+  color: var(--black);
+  font-family: var(--font-family-gilroy-semibold);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gilroy-semi-bold-mine-shaft-18px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-gilroy-semibold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-regular-normal-shark-24px {
+  color: var(--shark);
+  font-family: var(--font-family-poppins-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-semi-bold-black-26px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
